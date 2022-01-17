@@ -1,0 +1,29 @@
+body {
+  background-image: url(background1.jpg);
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 420px;
+  min-width: 420px;
+}
+/* la forme de input */
+.form-rounded {
+  border-radius: 2em;
+}
+/* la forme de la cart */
+.back-cart {
+  border-radius: 40px !important;
+}
+/* fes */
+.city-name p {
+  font-size: 25pt;
+  font-weight: 400;
+}
+/* 2 */
+.temp span {
+  font-weight: 10;
+  font-size: 5em;
+}
